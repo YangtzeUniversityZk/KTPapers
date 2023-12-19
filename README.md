@@ -48,7 +48,6 @@ We thank all the great [contributors](#contributors) very much.
 7. [arXiv 2022.9] **MonaCoBERT: Monotonic attention based ConvBERT for Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2208.12615.pdf)][[code](https://github.com/codingchild2424/MonaCoBERT)]
 8. [arXiv 2023.3] **GPT-based Open-Ended Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2203.03716.pdf)] [[code](https://github.com/lucy66666/okt)]
 9. [arXiv 2021.5] **Application of Deep Self-Attention in Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2105.07909.pdf)]
-10. [arXiv 2019.7] **A Self-Attentive model for Knowledge Tracing** [[pdf](https://arxiv.org/pdf/1907.06837.pdf)]
 
 ## 3. LSTM-based Papers
 1. [arXiv 2023.8] **Deep Knowledge Tracing is an implicit dynamic multidimensional item response theory model** [[pdf](https://arxiv.org/pdf/2309.12334.pdf)]
@@ -68,7 +67,6 @@ We thank all the great [contributors](#contributors) very much.
 15. [arXiv 2021.2] **LSTM-SAKT: LSTM-Encoded SAKT-like Transformer for Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2102.00845.pdf)]
 16. [arXiv 2021.1] **On the Interpretability of Deep Learning Based Models for Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2101.11335.pdf)]
 17. [arXiv 2021.6] **BKT-LSTM: Efficient Student Modeling for knowledge tracing and student performance prediction** [[pdf](https://arxiv.org/pdf/2012.12218.pdf)]
-18. [arXiv 2019.4] **Deep-IRT: Make Deep Learning Based Knowledge Tracing Explainable Using Item Response Theory** [[pdf](https://arxiv.org/pdf/1904.11738.pdf)]
 
 ## 4. Cognition-Mode-based Papers
 1. [arXiv 2023.9] **Cognition-Mode Aware Variational Representation Learning Framework for Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2309.01179.pdf)] [[code](https://github.com/zmy-9/CMVF)]
