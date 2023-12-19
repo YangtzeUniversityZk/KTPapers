@@ -2,6 +2,7 @@
 
 This list is currently maintained by members in Laboratory of Artificial Intelligence in Advanced Interdisciplinary. If you like our project, please give us a star ⭐ on GitHub for the latest update.
 
+We thank all the great [contributors](#contributors) very much.
 
 
 ### Contents
@@ -83,3 +84,12 @@ This list is currently maintained by members in Laboratory of Artificial Intelli
 5. [arXiv 2022.1] **Incremental Knowledge Tracing from Multiple Schools**. [[pdf](https://arxiv.org/pdf/2201.06941.pdf)]
 6. [arXiv 2021.12] **Interpretable Knowledge Tracing: Simple and Efficient Student Modeling with Causal Relations**. [[pdf](https://arxiv.org/pdf/2112.11209.pdf)] [[code](https://github.com/simon-tan/ikt)]
 7. [arXiv 2021.8] **Enhancing Knowledge Tracing via Adversarial Training**. [[pdf](https://arxiv.org/pdf/2108.04430.pdf)] [[code](https://github.com/xiaopengguo/atkt)]
+
+
+## Contributors
+
+We thank all the contributors to this list. And more contributions are very welcome.
+
+<a href="https://github.com/BUPT-GAMMA/GFMpapers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BUPT-GAMMA/GFMpapers" />
+</a>
