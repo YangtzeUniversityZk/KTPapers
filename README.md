@@ -18,6 +18,7 @@ This list is currently maintained by members in Laboratory of Artificial Intelli
 
 ## 0. Survey Papers
 1. [arXiv 2023.2] **A Survey of Knowledge Tracing**. [[pdf](https://arxiv.org/pdf/2105.15106.pdf)]
+2. [arXiv 2022.1] **Knowledge Tracing: A Survey**. [[pdf](https://arxiv.org/pdf/2201.06953.pdf)]
  
 
 ## 1. GNN-based Papers
