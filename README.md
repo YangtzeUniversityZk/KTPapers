@@ -11,7 +11,7 @@ This list is currently maintained by members in Laboratory of Artificial Intelli
 - [0. Survey Papers](#0-survey-papers)
 - [1. GNN-based Papers](#1-GNN-based-Papers)
 - [2. AKT-based Papers](#2-AKT-based-Papers)
-- [3. DKT-based Papers](#3-LSTM-based-Papers)
+- [3. LSTM-based Papers](#3-LSTM-based-Papers)
 - [4. Cognition-Mode-based Papers](#4-Cognition-Mode-based-Papers)
 - [5. CORE-based Papers](#5-CORE-based-Papers)
 
