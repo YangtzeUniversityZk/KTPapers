@@ -5,23 +5,12 @@ This list is currently maintained by members in Laboratory of Artificial Intelli
 
 
 - [Contents](#contents)
-- [Keywords Convention](#keywords-convention)
 - [0. Survey Papers](#0-survey-papers)
 - [1. GNN-based Papers](#1-gnn-based-papers)
 - [2. LLM-based Papers](#2-llm-based-papers)
 - [3. GNN+LLM-based Papers](#3-gnnllm-based-papers)
-- [Contributors](#contributors)
 
 
-### Keywords Convention
-
-![](https://img.shields.io/badge/xxx-DCE7F1) backbone architecture
-
-![](https://img.shields.io/badge/yyy-EAD8D9) Pretraining
-
-![](https://img.shields.io/badge/zzz-D8D0E1) Adaptation
-
-The meaning of each tag can be referred to in the "Towards Graph Foundation Models: A Survey and Beyond" paper.
 
 ## 0. Survey Papers
 1. [arXiv 2023.8] **Graph Meets LLMs: Towards Large Graph Models**. [[pdf](https://arxiv.org/pdf/2308.14522.pdf)][[paperlist](https://github.com/THUMNLab/awesome-large-graph-model)]
