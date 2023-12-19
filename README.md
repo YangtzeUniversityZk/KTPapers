@@ -1,12 +1,13 @@
-# KTPapers:关于知识跟踪模型的必读论文。
+# KTPapers:Must-read papers on Knowledge tracking models.
 
-该列表目前由高级跨学科人工智能实验室的成员维护。如果你喜欢我们的项目，请给我们一个星星⭐在GitHub上的最新更新。
-
-
-### 目录
+This list is currently maintained by members in Laboratory of Artificial Intelligence in Advanced Interdisciplinary. If you like our project, please give us a star ⭐ on GitHub for the latest update.
 
 
-- [目录](#目录)
+
+### Contents
+
+
+- [Contents](#Contents)
 - [0. Survey Papers](#0-survey-papers)
 - [1. GNN-based Papers](#1-gnn-based-papers)
 - [2. LLM-based Papers](#2-llm-based-papers)
