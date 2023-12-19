@@ -57,6 +57,9 @@ This list is currently maintained by members in Laboratory of Artificial Intelli
 12. [arXiv 2022.6] **Code-DKT: A Code-based Knowledge Tracing Model for Programming Tasks** [[pdf](https://arxiv.org/pdf/2206.03545.pdf)] [[code](https://github.com/yangazure/code-dkt)]
 13. [arXiv 2022.4] **Empirical Evaluation of Deep Learning Models for Knowledge Tracing: Of Hyperparameters and Metrics on Performance and Replicability** [[pdf](https://arxiv.org/pdf/2112.15072.pdf)]
 14. [arXiv 2021.2] **Last Query Transformer RNN for knowledge tracing** [[pdf](https://arxiv.org/pdf/2102.05038.pdf)]
+15. [arXiv 2021.2] **LSTM-SAKT: LSTM-Encoded SAKT-like Transformer for Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2102.00845.pdf)]
+16. [arXiv 2021.1] **On the Interpretability of Deep Learning Based Models for Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2101.11335.pdf)]
+17. [arXiv 2021.6] **BKT-LSTM: Efficient Student Modeling for knowledge tracing and student performance prediction** [[pdf](https://arxiv.org/pdf/2012.12218.pdf)]
 
 ## 4. Cognition-Mode-based Papers
 1. [arXiv 2023.9] **Cognition-Mode Aware Variational Representation Learning Framework for Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2309.01179.pdf)] [[code](https://github.com/zmy-9/CMVF)]
