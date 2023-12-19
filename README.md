@@ -90,6 +90,6 @@ We thank all the great [contributors](#contributors) very much.
 
 We thank all the contributors to this list. And more contributions are very welcome.
 
-<a href="https://github.com/BUPT-GAMMA/GFMpapers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BUPT-GAMMA/GFMpapers" />
+<a href="https://github.com/YangtzeUniversityZk/KTPapers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=YangtzeUniversityZk/KTPapers" />
 </a>
