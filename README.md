@@ -2,7 +2,9 @@
 
 This list is currently maintained by members in Laboratory of Artificial Intelligence in Advanced Interdisciplinary. If you like our project, please give us a star ⭐ on GitHub for the latest update.
 
+
 We thank all the great [contributors](#contributors) very much.
+
 
 
 ### Contents
@@ -39,7 +41,8 @@ We thank all the great [contributors](#contributors) very much.
 1. [arXiv 2023.9] **Forgetting-aware Linear Bias for Attentive Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2309.14796.pdf)] [[code](https://github.com/skewondr/FoLiBi)]
 2. [arXiv 2023.6] **Leveraging Skill-to-Skill Supervision for Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2306.06841.pdf)]
 3. [arXiv 2023.5] **Adaptive Learning Path Navigation Based on Knowledge Tracing and Reinforcement Learning** [[pdf](https://arxiv.org/pdf/2305.04475.pdf)]
-4. [arXiv 2023.2] **simpleKT: A Simple But Tough-to-Beat Baseline for Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2302.06881.pdf)] [[code](https://github.com/pykt-team/pykt-toolkit)]
+4. [arXiv 2023.2] **simpleKT: A Simple But Tough-to-Beat Baseline for Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2302.06881.pdf)
+] [[code](https://github.com/pykt-team/pykt-toolkit)]
 5. [arXiv 2023.2] **Augmenting Interpretable Knowledge Tracing by Ability Attribute and Attention Mechanism** [[pdf](https://arxiv.org/pdf/2302.02146.pdf)]
 6. [arXiv 2022.10] **Knowledge Tracing for Complex Problem Solving: Granular Rank-Based Tensor Factorization** [[pdf](https://arxiv.org/pdf/2210.09013.pdf)] [[code](https://github.com/persai-lab/umap2021-grate)]
 7. [arXiv 2022.9] **MonaCoBERT: Monotonic attention based ConvBERT for Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2208.12615.pdf)][[code](https://github.com/codingchild2424/MonaCoBERT)]
