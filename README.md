@@ -10,8 +10,8 @@ This list is currently maintained by members in Laboratory of Artificial Intelli
 - [Contents](#Contents)
 - [0. Survey Papers](#0-survey-papers)
 - [1. GNN-based Papers](#1-gnn-based-papers)
-- [2. LLM-based Papers](#2-llm-based-papers)
-- [3. GNN+LLM-based Papers](#3-gnnllm-based-papers)
+- [2. AKT-based Papers](#2-llm-based-papers)
+- [3. DKT-based Papers](#3-gnnllm-based-papers)
 
 
 
@@ -27,6 +27,6 @@ This list is currently maintained by members in Laboratory of Artificial Intelli
 ## 2. AKT-based Papers
 1. [arXiv 2023.9] **Forgetting-aware Linear Bias for Attentive Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2309.14796.pdf)] [[code](https://github.com/skewondr/FoLiBi)]
 
-## 3. GNN+LLM-based Papers
+## 3. DKT-based Papers
 
 
