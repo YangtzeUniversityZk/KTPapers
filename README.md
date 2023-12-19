@@ -16,14 +16,15 @@ This list is currently maintained by members in Laboratory of Artificial Intelli
 
 
 ## 0. Survey Papers
-1. [arXiv 2023.8] **Graph Meets LLMs: Towards Large Graph Models**. [[pdf](https://arxiv.org/pdf/2308.14522.pdf)][[paperlist](https://github.com/THUMNLab/awesome-large-graph-model)]
-2. [arXiv 2023.10] **Integrating Graphs with Large Language Models: Methods and Prospects**. [[pdf](https://arxiv.org/pdf/2310.05499.pdf)]
-3. [arXiv 2023.10] **Towards Graph Foundation Models: A Survey and Beyond**. [[pdf](https://arxiv.org/pdf/2310.11829.pdf)][[paperlist](https://github.com/BUPT-GAMMA/GFMPapers)]
-4. [arXiv 2023.11] **A Survey of Graph Meets Large Language Model: Progress and Future Directions**. [[pdf](https://arxiv.org/pdf/2311.12399.pdf)][[paperlist](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)]
-5. [arXiv 2023.12] **Large Language Models on Graphs: A Comprehensive Survey**. [[pdf](https://arxiv.org/pdf/2312.02783.pdf)][[paperlist](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
+1. [arXiv 2023.12] **Interpretable Knowledge Tracing via Response Influence-based Counterfactual Reasoning**. [[pdf](https://arxiv.org/pdf/2312.10045.pdf)][[paperlist](https://github.com/THUMNLab/awesome-large-graph-model)]
+2. [arXiv 2023.11] **Knowledge Tracing Challenge: Optimal Activity Sequencing for Students**. [[pdf](https://arxiv.org/pdf/2311.14707.pdf)]
+3. 
+4. [arXiv 2023.10] **Towards Graph Foundation Models: A Survey and Beyond**. [[pdf](https://arxiv.org/pdf/2310.11829.pdf)][[paperlist](https://github.com/BUPT-GAMMA/GFMPapers)]
+5. [arXiv 2023.11] **A Survey of Graph Meets Large Language Model: Progress and Future Directions**. [[pdf](https://arxiv.org/pdf/2311.12399.pdf)][[paperlist](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)]
+6. [arXiv 2023.12] **Large Language Models on Graphs: A Comprehensive Survey**. [[pdf](https://arxiv.org/pdf/2312.02783.pdf)][[paperlist](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
 
 ## 1. GNN-based Papers
-1. [arXiv 2023.10] **Enhancing Graph Neural Networks with Structure-Based Prompt** [[pdf](https://arxiv.org/pdf/2310.17394.pdf)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
+1. [arXiv 2023.10] **Evolutionary Neural Architecture Search for Transformer in Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2310.01180.pdf)][[code](https://github.com/DevilYangS/ENAS-KT)] 
 1. [arXiv 2023.11] **MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs** [[pdf](https://arxiv.org/pdf/2312.03731.pdf)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
 1. [arXiv 2023.10] **HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks** [[pdf](https://arxiv.org/abs/2310.15318)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
 1. [arXiv 2023.10] **Prompt Tuning for Multi-View Graph Contrastive Learning** [[pdf](https://arxiv.org/abs/2310.10362)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
