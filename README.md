@@ -10,7 +10,6 @@ We thank all the great [contributors](#contributors) very much.
 ### Contents
 
 
-- [Contents](#Contents)
 - [0. Survey Papers](#0-survey-papers)
 - [1. GNN-based Papers](#1-GNN-based-Papers)
 - [2. AKT-based Papers](#2-AKT-based-Papers)
