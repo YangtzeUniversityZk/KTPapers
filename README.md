@@ -34,6 +34,7 @@ We thank all the great [contributors](#contributors) very much.
 8. [arXiv 2021.11] **An Approach for Combining Multimodal Fusion and Neural Architecture Search Applied to Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2111.04497.pdf)]
 9. [arXiv 2021.8] **Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2108.08105.pdf)]
 10. [arXiv 2021.5] **Consistency and Monotonicity Regularization for Neural Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2105.00607.pdf)]
+11. [arXiv 2022.8] **HGKT: Introducing Hierarchical Exercise Graph for Knowledge Tracing** [[pdf](https://arxiv.org/pdf/2006.16915.pdf)]
 
 
 ## 2. AKT-based Papers
